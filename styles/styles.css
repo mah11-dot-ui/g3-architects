@@ -88,6 +88,20 @@ main > section {
     grid-template-columns: repeat(4, 1fr);
 }
 
+/* sponsor styles */
+.sponsor-info{
+    max-width: 540px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.sponsor-companies{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items: center;
+    justify-content: center;
+}
+
 /* Navbar style */
 .Navbar{
     display: flex;
