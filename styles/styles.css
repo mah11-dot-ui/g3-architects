@@ -88,6 +88,38 @@ main > section {
     grid-template-columns: repeat(4, 1fr);
 }
 
+/* future section styles */
+.futures{
+    margin-top: 169px;
+}
+
+#future-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 21px;
+}
+
+.future-description{
+    max-width:569px;
+}
+
+.future-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.future-card{
+   padding: 30px;
+   box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+   margin-bottom: 20px;
+   border-radius: 8px;
+   
+}
+
+.futures{
+    margin: 240px 240px;
+    
+}
+
 /* sponsor styles */
 .sponsor-info{
     max-width: 540px;
