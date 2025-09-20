@@ -227,6 +227,7 @@ main > section {
     display: flexbox;
 }
 ```
+- html
 ```
 <!DOCTYPE html>
 <html lang="en">
