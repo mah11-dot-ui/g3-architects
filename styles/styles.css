@@ -197,9 +197,20 @@ main > section {
     font-weight: 500;
 }
 
-/* responsive meidia query */
-@media screen and (max-width: 576px) {
-    .Navbar, .nav-links{
-        flex-direction: column;
-    }
+/* footer styles */
+.footer{
+    margin-top: 130px;
+    background-color: #FFF4E7;
+    padding-left: 410px;
+    padding-right: 410px;
+    padding-top: 39px;
+    padding-bottom: 38px;
 }
+
+.footer-description{
+    font-size: 20px;
+    text-align: center;
+    display: flexbox;
+}
+
+ 
